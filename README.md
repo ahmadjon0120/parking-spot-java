@@ -20,5 +20,7 @@ Compile and run the application through ‘Main’ in BlueJ, a console, or any I
 Click on any displayed buttons to perform actions.
 Explore the GUI and its advanced features.
 Enjoy using the system! 🚗
-![Screenshot 2025-01-31 at 3 33 17 pm](https://github.com/user-attachments/assets/b6183e18-0955-4e1f-8107-880c6675b94d)
+
+![Screenshot 2025-01-31 at 3 46 46 pm](https://github.com/user-attachments/assets/7201f1ad-75a3-4505-a5b6-b624b37fc6b4)
+
 

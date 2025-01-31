@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Vehicle
+comment1.params=ownerName
+comment1.target=Vehicle(java.lang.String)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Vehicle\n\n
+comment2.params=
+comment2.target=java.lang.String\ getOwner()
+comment2.text=\n\ Getting\ the\ owner\ of\ the\ vehicle\n\n\ @return\ owner,\ the\ owner\ of\ the\ vehicle\n
+comment3.params=
+comment3.target=java.time.LocalDateTime\ getArrivalTime()
+comment3.text=\n\ Getting\ the\ arrival\ time\ from\ LocalDateTime\n\n
+comment4.params=
+comment4.target=long\ getTimeIn()
+comment4.text=\n\ Getting\ the\ time\ in\ the\ parking\ once\ vehicle\ is\ parked\n\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\n\ Displaying\ information\ about\ vehicle\n\n
+numComments=6

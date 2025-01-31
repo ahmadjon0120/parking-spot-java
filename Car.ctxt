@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Car
+comment1.params=rego\ ownerName
+comment1.target=Car(java.lang.String,\ java.lang.String)
+comment1.text=\n\ Constructor\ for\ a\ Car\n
+comment2.params=
+comment2.target=java.lang.String\ getrego()
+comment2.text=\n\ Gets\ the\ registration\ number\ of\ the\ car\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\n\ Displays\ information\ about\ the\ Car\n\n
+numComments=4
